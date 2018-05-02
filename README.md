@@ -21,7 +21,7 @@ La aplicación está estructurada en las siguientes capas:
   /dto -> data transfer objects para el traspaso de datos entre capas.
   /interfaces -> interfaces para los métodos del service y el dao.
   /models -> modelo de objeto para productos y carritos. 
-  /services -> capa de servicios que transfiere entre controllers y daos
+  /services -> capa de servicios que transfiere datos entre controllers y daos
   ```
  
 # Instalación
