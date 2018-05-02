@@ -3,13 +3,13 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Date;
 import com.cart.rest.models.Cart;
-import com.cart.rest.models.CartCollection;
+import com.cart.rest.collections.CartCollection;
+import com.cart.rest.collections.ProductCollection;
 import com.cart.rest.dto.CartCreationDTO;
 import com.cart.rest.dto.CartResponseDTO;
 import com.cart.rest.dto.ProductCreationDTO;
 import com.cart.rest.interfaces.ICartDAO;
 import com.cart.rest.models.Product;
-import com.cart.rest.models.ProductCollection;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class CartDAO implements ICartDAO {
