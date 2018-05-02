@@ -67,7 +67,7 @@ La aplicación está estructurada en las siguientes capas:
   debe enviar los parámetros en raw y con la siguiente estructura:
   ```
   {
-	"fullName": "asdasdasd",
-	"email": "asdasdasd@gmails.com"
+	"fullName": "Luis Recchini",
+	"email": "luisrecchini@gmail.com"
   }
   ```
